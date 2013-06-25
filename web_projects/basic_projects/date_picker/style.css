@@ -1,0 +1,25 @@
+* {
+    font-family:Verdana;
+    }
+
+h1 {
+    color:Green;
+    text-align:center;
+    }
+
+h2 {
+    size:7px;
+    color:green;
+    }
+    
+#title {
+    border:4px solid red;
+    box-shadow:5px 5px 5px #888;
+    }
+#subtitle {
+    text-align:center;
+    }
+
+p {
+    color:blue
+    }
